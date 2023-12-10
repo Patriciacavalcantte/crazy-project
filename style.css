@@ -36,15 +36,16 @@ body{
     margin-bottom: 1px;
   }
   .leon {
-    border-bottom: #13ebe3 1px solid;
-    color: #13ebe3;
+    border-top: #de7eb5 1px solid;
+    color: #de7eb5;
     text-align: left;
     transform: skewY(30deg);
     z-index: 10;
   }
   .holden {
-    border-top: #de7eb5 1px solid;
-    color: #de7eb5;
+    
+    border-bottom: #13ebe3 1px solid;
+    color: #13ebe3;
     transform: skewY(-30deg);
     z-index: 15;
   }
